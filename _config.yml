@@ -1,0 +1,9 @@
+title: Raman Ghimire
+description: Personal site and language learning guides
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+exclude:
+  - README.md
